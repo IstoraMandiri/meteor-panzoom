@@ -1,0 +1,9 @@
+{
+  "name": "panzoom",
+  "description": "jquery.panzoom",
+  "homepage": "",
+  "author": "timmywil, hitchcott <hitchcott@gmail.com>",
+  "version": "0.0.1",
+  "git": "http://github.com/hitchcott/meteor-panzoom",
+  "packages": {}
+}
