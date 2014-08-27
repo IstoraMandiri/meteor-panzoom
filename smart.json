@@ -3,7 +3,7 @@
   "description": "A jQuery plugin for panning and zooming elements using CSS3",
   "homepage": "http://github.com/hitchcott/meteor-panzoom",
   "author": "timmywil, hitchcott <hitchcott@gmail.com>",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "git": "http://github.com/hitchcott/meteor-panzoom",
   "packages": {}
 }
